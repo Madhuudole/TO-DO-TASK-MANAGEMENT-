@@ -61,8 +61,6 @@ OUTPUT 👩‍💻:
 <img width="1920" height="2153" alt="image" src="https://github.com/user-attachments/assets/99aa3104-ca71-4eee-8438-d8bd130e3b05" />
 <img width="624" height="886" alt="image" src="https://github.com/user-attachments/assets/0edce5dc-ac84-42eb-a045-174bcf262e72" />
 <img width="559" height="793" alt="image" src="https://github.com/user-attachments/assets/135eabc4-ef11-418a-85e4-fdd3211c9bcd" />
-<img width="602" height="555" alt="image" src="https://github.com/user-attachments/assets/c394c5ef-4e03-4670-8d99-eb844a355528" />
-
 
 
 
@@ -74,9 +72,23 @@ OUTPUT 👩‍💻:
 <img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/85d61ad6-2637-4c74-82cc-93f774867533" />
 
 
+📚 Learning Outcomes
 
+Full-stack application development
 
+REST API design with Spring Boot
 
+Angular frontend development
+
+Docker containerization
+
+Azure cloud deployment
+
+👩‍💻 Authors
+
+Dole Madhu Sri
+
+Devara Vasmitha
 
 
 
