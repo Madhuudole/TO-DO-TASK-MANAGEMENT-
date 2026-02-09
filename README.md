@@ -27,7 +27,7 @@ Frontend: Angular
 
 Backend: Spring Boot, Spring Data JPA
 
-Database: H2 / PostgreSQL / MySQL
+Database:MySQL
 
 DevOps: Docker
 
