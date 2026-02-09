@@ -56,19 +56,20 @@ Azure hosts the containerized backend
 | DELETE | `/api/tasks/{taskId}`     | Delete task   |
 
 
-ER DIAGRAM:
+**ER DIAGRAM:**
 ![ER](https://github.com/user-attachments/assets/07256e71-8442-4f5e-92a0-e3f900d3f8c3)
 
 
-OUTPUT 👩‍💻:
+**OUTPUT 👩‍💻:**
 
 <img width="1614" height="775" alt="image" src="https://github.com/user-attachments/assets/06c86968-fbda-4864-a522-ee9554d84c78" />
 <img width="1920" height="2153" alt="image" src="https://github.com/user-attachments/assets/99aa3104-ca71-4eee-8438-d8bd130e3b05" />
 <img width="624" height="886" alt="image" src="https://github.com/user-attachments/assets/0edce5dc-ac84-42eb-a045-174bcf262e72" />
 <img width="559" height="793" alt="image" src="https://github.com/user-attachments/assets/135eabc4-ef11-418a-85e4-fdd3211c9bcd" />
 
- DOCKER⚓
-  <img width="713" height="822" alt="image" src="https://github.com/user-attachments/assets/45d5f69b-5eea-472c-90ac-ced7c89a7463" />
+** DOCKER⚓**
+ 
+<img width="713" height="822" alt="image" src="https://github.com/user-attachments/assets/45d5f69b-5eea-472c-90ac-ced7c89a7463" />
 
 
 **☁️ Azure Deployment**
@@ -78,7 +79,7 @@ OUTPUT 👩‍💻:
 <img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/85d61ad6-2637-4c74-82cc-93f774867533" />
 
 
-📚 Learning Outcomes
+**📚 Learning Outcomes**
 
 Full-stack application development
 
@@ -90,7 +91,7 @@ Docker containerization
 
 Azure cloud deployment
 
-👩‍💻 Authors
+**👩‍💻 Authors**
 
 Dole Madhu Sri
 
