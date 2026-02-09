@@ -67,7 +67,7 @@ Azure hosts the containerized backend
 <img width="624" height="886" alt="image" src="https://github.com/user-attachments/assets/0edce5dc-ac84-42eb-a045-174bcf262e72" />
 <img width="559" height="793" alt="image" src="https://github.com/user-attachments/assets/135eabc4-ef11-418a-85e4-fdd3211c9bcd" />
 
-** DOCKER⚓**
+**DOCKER⚓:**
  
 <img width="713" height="822" alt="image" src="https://github.com/user-attachments/assets/45d5f69b-5eea-472c-90ac-ced7c89a7463" />
 
