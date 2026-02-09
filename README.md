@@ -58,21 +58,21 @@ Azure hosts the containerized backend
 OUTPUT 👩‍💻:
 
 <img width="1614" height="775" alt="image" src="https://github.com/user-attachments/assets/06c86968-fbda-4864-a522-ee9554d84c78" />
-
 <img width="1920" height="2153" alt="image" src="https://github.com/user-attachments/assets/99aa3104-ca71-4eee-8438-d8bd130e3b05" />
+<img width="624" height="886" alt="image" src="https://github.com/user-attachments/assets/0edce5dc-ac84-42eb-a045-174bcf262e72" />
+<img width="559" height="793" alt="image" src="https://github.com/user-attachments/assets/135eabc4-ef11-418a-85e4-fdd3211c9bcd" />
+<img width="602" height="555" alt="image" src="https://github.com/user-attachments/assets/c394c5ef-4e03-4670-8d99-eb844a355528" />
 
-<img width="624" height="886" alt="image" src="https://github.com/user-attachments/assets/0edce5dc-ac84-42eb-a045-174bcf262e72" /><img width="559" height="793" alt="image" src="https://github.com/user-attachments/assets/135eabc4-ef11-418a-85e4-fdd3211c9bcd" />
 
 
 
 
-☁️ Azure Deployment
+**☁️ Azure Deployment**
 <img width="1600" height="895" alt="image" src="https://github.com/user-attachments/assets/0fa34765-5e63-4203-9ff9-35f70df4fa33" />  
 <img width="1582" height="992" alt="image" src="https://github.com/user-attachments/assets/fc511e7b-0bc5-4621-93f8-4ef9e93bb0fd" />
 <img width="1600" height="768" alt="image" src="https://github.com/user-attachments/assets/ad0c899e-2fcc-43d7-b088-b6b6f049f602" />
 <img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/85d61ad6-2637-4c74-82cc-93f774867533" />
-<img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/b80beb9c-79b9-4d47-b85a-9af6f678ce77" />
-<img width="1600" height="855" alt="image" src="https://github.com/user-attachments/assets/327cdc42-4e58-479d-b0f3-c3eece3f2352" />
+
 
 
 
