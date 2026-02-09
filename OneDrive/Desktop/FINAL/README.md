@@ -12,9 +12,6 @@ This repository contains a full stack Task Manager app with an Angular frontend 
 ## D. Data Store
 Default config uses MySQL; a dev profile uses an in-memory H2 database.
 
-## E. Email Reminders
-A daily scheduler sends reminder emails for tasks due tomorrow.
-
 ## G. Getting Started
 Prereqs: Java 17, Node 20+, npm 11, and MySQL or Docker.
 
@@ -36,9 +33,6 @@ Frontend:
 2. `npm install`
 3. `npm start`
 
-## J. Java
-Target is Java 17.
-
 ## K. Key Commands
 - `./mvnw test`
 - `npm test`
@@ -53,8 +47,6 @@ Set `spring.mail.*` in `taskmanager-backend/src/main/resources/application.prope
 ## N. Notes
 `/api/**` is `permitAll` in `SecurityConfig`. Non-API endpoints use Basic Auth. Change default credentials before deployment.
 
-## O. Observability
-Logs are printed to the console. No metrics or tracing are configured.
 
 ## Q. Quick Start
 1. Start backend: `cd taskmanager-backend` then `./mvnw spring-boot:run`
