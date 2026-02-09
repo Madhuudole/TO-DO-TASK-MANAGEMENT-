@@ -1,5 +1,6 @@
 ✅ To-Do Task Management Application
 
+
 A simple Task / To-Do Management Application built using Angular, Spring Boot, Docker, and Azure to help users organize and track daily tasks efficiently.
 
 🚀 About the Project
@@ -55,6 +56,10 @@ Azure hosts the containerized backend
 | DELETE | `/api/tasks/{taskId}`     | Delete task   |
 
 
+ER DIAGRAM:
+![ER](https://github.com/user-attachments/assets/07256e71-8442-4f5e-92a0-e3f900d3f8c3)
+
+
 OUTPUT 👩‍💻:
 
 <img width="1614" height="775" alt="image" src="https://github.com/user-attachments/assets/06c86968-fbda-4864-a522-ee9554d84c78" />
@@ -62,7 +67,8 @@ OUTPUT 👩‍💻:
 <img width="624" height="886" alt="image" src="https://github.com/user-attachments/assets/0edce5dc-ac84-42eb-a045-174bcf262e72" />
 <img width="559" height="793" alt="image" src="https://github.com/user-attachments/assets/135eabc4-ef11-418a-85e4-fdd3211c9bcd" />
 
-
+ DOCKER⚓
+  <img width="713" height="822" alt="image" src="https://github.com/user-attachments/assets/45d5f69b-5eea-472c-90ac-ced7c89a7463" />
 
 
 **☁️ Azure Deployment**
