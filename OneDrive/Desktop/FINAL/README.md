@@ -15,24 +15,6 @@ Default config uses MySQL; a dev profile uses an in-memory H2 database.
 ## E. Email Reminders
 A daily scheduler sends reminder emails for tasks due tomorrow.
 
-## F. Folder Layout
-```text
-.
-|-- frontend/
-|   |-- package-lock.json
-|   `-- task-manager-frontend/
-|       |-- README.md
-|       |-- angular.json
-|       |-- package.json
-|       |-- proxy.conf.json
-|       `-- src/
-`-- taskmanager-backend/
-    |-- Dockerfile
-    |-- docker-compose.yml
-    |-- pom.xml
-    `-- src/
-```
-
 ## G. Getting Started
 Prereqs: Java 17, Node 20+, npm 11, and MySQL or Docker.
 
@@ -74,9 +56,6 @@ Set `spring.mail.*` in `taskmanager-backend/src/main/resources/application.prope
 ## O. Observability
 Logs are printed to the console. No metrics or tracing are configured.
 
-## P. Ports
-Backend 8081, Frontend 4200, MySQL 3306.
-
 ## Q. Quick Start
 1. Start backend: `cd taskmanager-backend` then `./mvnw spring-boot:run`
 2. Start frontend: `cd frontend/task-manager-frontend` then `npm install` and `npm start`
@@ -96,14 +75,3 @@ The UI supports task creation, assignment to people, editing, completion, filter
 ## V. Versions
 Backend: Spring Boot 3.2.5, Java 17. Frontend: Angular 21.1.x.
 
-## W. Workflow
-A scheduled job runs daily at 9 AM to email reminders for tasks due tomorrow.
-
-## X. eXtras
-CORS is enabled for all origins on `/api/**`.
-
-## Y. Yarn and npm
-This repo uses npm (package manager set to npm 11.1.0).
-
-## Z. License
-Add a license file when you are ready to choose one.
